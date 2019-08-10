@@ -1,40 +1,31 @@
 .jumbotron {
   background-color: transparent;
+  text-align: center;
 }
 
-#jumbotron-left-column {
-
-}
-
-#jumbotron-right-column img {
+#jumbotron-left-column img {
   border-radius: 50%;
 }
 
 #github {
   text-align: center;
-  border-width:2px;
-  border-style:solid;
-  border-color:black;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  border: 1px solid black;
+  padding: 12px;
+  margin: 4px;
 }
 
 #resume {
   text-align: center;
-  border-width:2px;
-  border-style:solid;
-  border-color:black;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  border: 1px solid black;
+  padding: 12px;
+  margin: 4px;
 }
 
 #about-me {
   text-align: center;
-  border-width:2px;
-  border-style:solid;
-  border-color:black;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  border: 1px solid black;
+  padding: 12px;
+  margin: 4px;
 }
 
 ul {
