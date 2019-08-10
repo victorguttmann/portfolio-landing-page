@@ -12,19 +12,32 @@
 
 #github {
   text-align: center;
-  background-color: pink;
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 #resume {
   text-align: center;
-  background-color: pink;
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 #about-me {
   text-align: center;
-  background-color: pink;
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 ul {
-  list-style-type: none
+  list-style-type: none;
+  font-style: italic;
 }
