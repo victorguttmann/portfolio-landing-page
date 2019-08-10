@@ -1,11 +1,30 @@
-
-
-#jumbotron-left-column {
-  background-color: lightgreen;
-  width: 50%;
+.jumbotron {
+  background-color: transparent;
 }
 
-#jumbotron-right-column {
-  background-color: yellow;
-  width: 50%;
+#jumbotron-left-column {
+
+}
+
+#jumbotron-right-column img {
+  border-radius: 50%;
+}
+
+#github {
+  text-align: center;
+  background-color: pink;
+}
+
+#resume {
+  text-align: center;
+  background-color: pink;
+}
+
+#about-me {
+  text-align: center;
+  background-color: pink;
+}
+
+ul {
+  list-style-type: none
 }
