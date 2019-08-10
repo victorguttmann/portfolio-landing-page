@@ -3,8 +3,12 @@
   text-align: center;
 }
 
-#jumbotron-left-column img {
+#jumbotron-column img {
   border-radius: 50%;
+}
+
+#bigboycontainer {
+    background-color: lightyellow;
 }
 
 #github {
@@ -28,7 +32,11 @@
   margin: 4px;
 }
 
-ul {
+#about-me p {
+  padding: 4px;
+}
+
+ul, ol {
   list-style-type: none;
   font-style: italic;
 }
